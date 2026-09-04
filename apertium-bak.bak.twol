@@ -54,8 +54,8 @@ CnsVoiceless     =  П Т К Ҡ Ф Ҫ С Ш Щ Х Һ Б Г Ғ Д Ц Ч
 CnsVcdConts      =  Й В Р Ҙ      ! Voiced Continuants
                     й в р ҙ ;
 
-CnsVcdNonConts   =  Л М Н Ң Ж    ! Voiced Non-Continuants
-                    л м н ң ж ;
+CnsVcdNonConts   =  Л М Н Ң Ж З    ! Voiced Non-Continuants
+                    л м н ң ж з ;
 
 Nasals           =  М Н Ң 
                     м н ң ; 
