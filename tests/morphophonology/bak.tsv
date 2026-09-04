@@ -1,0 +1,24 @@
+! Nouns ending in з take the -дар/-дәр allomorph, like other voiced
+! non-continuants. Surface forms below are attested in a 145M-character
+! Bashkir corpus; the forms generated before the fix (заказлар, колхозла,
+! призлар …) do not occur in it at all.
+_	заказ<n><pl><nom>	заказдар
+_	заказ<n><loc>	заказда
+_	заказ<n><abl>	заказдан
+_	колхоз<n><pl><nom>	колхоздар
+_	колхоз<n><loc>	колхозда
+_	колхоз<n><abl>	колхоздан
+_	француз<n><pl><nom>	француздар
+_	йыһаз<n><pl><nom>	йыһаздар
+_	ауаз<n><pl><nom>	ауаздар
+_	профсоюз<n><pl><nom>	профсоюздар
+
+! Regression: the other consonant classes must keep their allomorphs.
+_	ҡаҙ<n><pl><nom>	ҡаҙҙар
+_	көҙ<n><pl><nom>	көҙҙәр
+_	китап<n><pl><nom>	китаптар
+_	ат<n><pl><nom>	аттар
+_	ил<n><pl><nom>	илдәр
+_	көн<n><pl><nom>	көндәр
+_	ер<n><pl><nom>	ерҙәр
+_	бала<n><pl><nom>	балалар
